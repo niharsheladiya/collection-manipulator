@@ -177,8 +177,10 @@ Develop an interactive **Student Data Organizer** application in Python that pro
 ## 📂 Project Structure
 
 > Collection-Manipulator/
-> ├── collection_manipulator.py     # Main Python CLI application source code
-> └── README.md                     # Project documentation and details
+> ├── collection_manipulator.py
+>  # Main Python CLI application source code
+> └── README.md
+> # Project documentation and details
 
 ---
 
