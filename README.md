@@ -71,8 +71,8 @@ Develop an interactive **Student Data Organizer** application in Python that pro
 > welcom to the student data organizer!
 > 
 > select an option:
-> 
-> 1.Add Student
+>1.Add Student
+>2.Display All students
 > 
 > 2.Display All students
 > 
