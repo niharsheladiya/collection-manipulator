@@ -10,8 +10,7 @@ A beginner-friendly Python console application designed to manage student record
 
 ## 🎥 Live Demo Video Link
 
-[Watch the live demo here](https://drive.google.com/file/d/your-video-link-here/view?usp=drive_link) *(Don't forget to replace this with your actual link!)*
-
+[Watch the live demo here](https://drive.google.com/file/d/your-video-link-here/view?usp=drive_link) 
 ---
 
 ## 📌 Objective
