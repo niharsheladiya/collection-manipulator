@@ -69,14 +69,23 @@ Develop an interactive **Student Data Organizer** application in Python that pro
 ## 💻 Example Console Interaction
 
 > welcom to the student data organizer!
+> 
 > select an option:
+> 
 > 1.Add Student
+> 
 > 2.Display All students
+> 
 > 3.Update Student Information
+> 
 > 4.Delete Student
+> 
 > 5.Display offered subjects
+> 
 > 6.exit
+> 
 > Enter Your Choice: 1
+> 
 > Enter student details:
 > Enter Student ID: 11
 > Enter Name: nihar
