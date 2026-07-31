@@ -72,9 +72,8 @@ Develop an interactive **Student Data Organizer** application in Python that pro
 > 
 > select an option:
 >1.Add Student
->2.Display All students
 > 
-> 2.Display All students
+>2.Display All students
 > 
 > 3.Update Student Information
 > 
@@ -87,41 +86,77 @@ Develop an interactive **Student Data Organizer** application in Python that pro
 > Enter Your Choice: 1
 > 
 > Enter student details:
+> 
 > Enter Student ID: 11
+> 
 > Enter Name: nihar
+> 
 > Enter Age: 18
+> 
 > Enter Grade: a
+> 
 > Date of Birth (YYYY-MM-DD): 2008-06-15
+> 
 > Enter Subjects(comma-separated): maths
+> 
 > Student Added succesfully!
+> 
 > select an option:
+> 
 > 1.Add Student
+> 
 > 2.Display All students
+> 
 > 3.Update Student Information
+> 
 > 4.Delete Student
+> 
 > 5.Display offered subjects
+> 
 > 6.exit
+> 
 > Enter Your Choice: 2
+> 
 > ---Display All students---
+> 
 > Student_id: 11
+> 
 > name: nihar
+> 
 > age: 18
+> 
 > grade: a
+> 
 > subjects: maths
+> 
 > select an option:
+> 
 > 1.Add Student
+> 
 > 2.Display All students
+> 
 > 3.Update Student Information
+> 
 > 4.Delete Student
+> 
 > 5.Display offered subjects
+> 
 > 6.exit
+> 
 > Enter Your Choice: 3
+> 
 > Enter Student Id: 11
+> 
 > Enter New Name: jal
+> 
 > Enter New Age: 19
+> 
 > Enter New Grade: b
+> 
 > Enter New Dob: 2009-06-16
+> 
 > Enter New Subjects: english
+> 
 > Student Details Update Successfully!
 
 💡 **Note:** All student records are stored in volatile memory (`RAM`). Rerunning the script resets stored collections back to default.
